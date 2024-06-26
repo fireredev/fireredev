@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/fireredev/fireredev/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=fireredev)](https://solved.ac/fireredev)
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=hi-&fontSize=90" />
 
